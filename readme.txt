@@ -8,6 +8,7 @@
           #box1{
             width:30%;
             height:30%;
+            padding:1
             background-color: rgb(231,131,38);
             margin:0.5%;
             border-radius: 15%;
